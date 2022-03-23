@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"After all this, always"
+"Live the life u love"
 Use the left arrow to go back
